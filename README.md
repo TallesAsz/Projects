@@ -1,3 +1,3 @@
 # ProjectGame
 
-Not finished yet.
+Não finalizado
