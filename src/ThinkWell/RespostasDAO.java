@@ -4,10 +4,8 @@ import java.sql.*;
 import java.util.*;
 import thinkWell.PerguntasDAO;
 
-/**
- *
- * @author Devisate
- */
+/*@Author: Talles Lima*/
+
 public class RespostasDAO {
     String respEr;
     Connection conexao;    
