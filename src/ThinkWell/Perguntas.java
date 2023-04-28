@@ -10,10 +10,8 @@ import java.sql.*;
 import java.util.*;
 import javax.swing.*;
 
-/**
- *
- * @author claudinei
- */
+/*@Author: Talles Lima*/
+
 public class Perguntas extends javax.swing.JDialog {
 
     /**
