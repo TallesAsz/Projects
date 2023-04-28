@@ -7,10 +7,8 @@ package thinkWell;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- *
- * @author alessandro
- */
+/*@Author: Talles Lima*/
+
 public class APanel extends JPanel {
 
     private String local = "menu.png";
