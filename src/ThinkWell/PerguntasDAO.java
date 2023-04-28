@@ -3,10 +3,10 @@ package thinkWell;
 import java.sql.*;
 import java.util.*;
 
-/**
- *
- * @author claudinei
- */
+
+/*@Author: Talles Lima*/
+
+
 public class PerguntasDAO{
     private int cod_per;
     Connection conexao;
