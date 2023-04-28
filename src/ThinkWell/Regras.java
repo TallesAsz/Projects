@@ -5,10 +5,8 @@
  */
 package thinkWell;
 
-/**
- *
- * @author Talle
- */
+/*@Author: Talles Lima*/
+
 public class Regras extends javax.swing.JFrame {
 
     /**
