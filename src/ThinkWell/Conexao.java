@@ -7,10 +7,10 @@ package thinkWell;
 
 import java.sql.*;
 
-/**
- *
- * @author claudinei
- */
+
+/*@Author: Talles Lima*/
+
+
 public class Conexao {
     String banco = "thinkwell";
     String usuario = "root";
