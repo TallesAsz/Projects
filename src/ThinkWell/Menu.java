@@ -9,10 +9,10 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Devisate
- */
+
+/*@Author: Talles Lima*/
+
+
 public class Menu extends javax.swing.JFrame {
 
     /**
