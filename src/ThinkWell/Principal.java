@@ -14,10 +14,8 @@ import javax.swing.*;
 import thinkWell.Perguntas;
 import thinkWell.PerguntasDAO;
 
-/**
- *
- * @author claudinei
- */
+/*@Author: Talles Lima*/
+
 public class Principal extends javax.swing.JFrame {
 
     /**
