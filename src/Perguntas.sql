@@ -112,7 +112,7 @@ insert into respostas (idpergunta, descricao, correta) values ('31', 'Combater a
 insert into respostas (idpergunta, descricao, correta) values ('32', 'Itália', 1);
 insert into respostas (idpergunta, descricao, correta) values ('33', 'Polissemia', 1);
 insert into respostas (idpergunta, descricao, correta) values ('34', 'Lisossomos', 1);
-insert into respostas (idpergunta, descricao, correta) values ('35', 'Meridiano de Greenwich.', 1);
+insert into respostas (idpergunta, descricao, correta) values ('35', 'Linha do Equador.', 1);
 insert into respostas (idpergunta, descricao, correta) values ('36', 'Constantinopla', 1);
 insert into respostas (idpergunta, descricao, correta) values ('37', '-2 e -8', 1);
 insert into respostas (idpergunta, descricao, correta) values ('38', 'Devia', 1);
